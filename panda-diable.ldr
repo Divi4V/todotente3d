@@ -1,0 +1,62 @@
+0 Untitled
+0 Name: panda-diable.ldr
+0 Author: diable (pasado a 3D por cpcbegin)
+0 Tente ruta custom
+0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CONFIG 0 0
+1 15 0 24 110 1 0 0 0 1 0 0 0 1 cabant.dat
+1 15 80 24 110 1 0 0 0 1 0 0 0 1 cabant.dat
+1 15 80 24 190 -1 0 0 0 1 0 0 0 -1 cabant.dat
+1 15 0 24 190 -1 0 0 0 1 0 0 0 -1 cabant.dat
+1 15 -40 24 150 0 0 1 0 1 0 -1 0 0 vntcasa.dat
+1 15 120 24 110 0 0 -1 0 1 0 1 0 0 vntcasa.dat
+1 15 -40 24 190 0 0 1 0 1 0 -1 0 0 vntscorp.dat
+1 15 -40 0 190 0 0 1 0 1 0 -1 0 0 vntscorp.dat
+1 15 120 24 150 0 0 -1 0 1 0 1 0 0 vntscorp.dat
+1 15 120 0 150 0 0 -1 0 1 0 1 0 0 vntscorp.dat
+1 15 120 -24 210 -1 0 0 0 1 0 0 0 -1 placa6x8.dat
+1 8 120 56 310 -1 0 0 0 1 0 0 0 -1 placa6x8.dat
+1 8 120 56 190 -1 0 0 0 1 0 0 0 -1 placa6x8.dat
+1 15 120 24 310 -1 0 0 0 1 0 0 0 -1 placa4x8.dat
+1 8 120 80 310 -1 0 0 0 1 0 0 0 -1 jacena8.dat
+1 8 120 80 90 -1 0 0 0 1 0 0 0 -1 jacena8.dat
+1 8 100 80 230 0 0 1 0 1 0 -1 0 0 jacena4.dat
+1 8 -40 80 230 0 0 1 0 1 0 -1 0 0 jacena4.dat
+1 15 120 48 130 0 0 -1 0 1 0 1 0 0 jacena8.dat
+1 15 120 48 90 0 0 -1 0 1 0 1 0 0 jacena2.dat
+1 15 -20 48 130 0 0 -1 0 1 0 1 0 0 jacena8.dat
+1 15 -20 48 90 0 0 -1 0 1 0 1 0 0 jacena2.dat
+1 15 -20 48 90 1 0 0 0 1 0 0 0 1 jacena6.dat
+1 117313504 -30 48 300 1 0 0 0 1 0 0 0 1 amortigu.dat
+1 117313504 -30 48 80 1 0 0 0 1 0 0 0 1 amortigu.dat
+1 117313504 110 48 300 1 0 0 0 1 0 0 0 1 amortigu.dat
+1 117313504 110 48 80 1 0 0 0 1 0 0 0 1 amortigu.dat
+1 15 40 48 290 1 0 0 0 1 0 0 0 1 jacena2.dat
+1 15 40 48 290 -1 0 0 0 1 0 0 0 -1 rallado2.dat
+1 0 20 88 140 -1 0 0 0 1 0 0 0 -1 jacen2x2.dat
+1 8 20 64 140 -1 0 0 0 1 0 0 0 -1 placa2x2.dat
+1 4 20 88 100 -1 0 0 0 1 0 0 0 -1 llantrut.dat
+1 0 20 88 100 -1 0 0 0 1 0 0 0 -1 ruta21nm.dat
+1 4 -20 88 140 1 0 0 0 1 0 0 0 1 llantrut.dat
+1 0 -20 88 140 1 0 0 0 1 0 0 0 1 ruta21nm.dat
+1 0 20 88 280 -1 0 0 0 1 0 0 0 -1 jacen2x2.dat
+1 8 20 64 280 -1 0 0 0 1 0 0 0 -1 placa2x2.dat
+1 4 20 88 240 -1 0 0 0 1 0 0 0 -1 llantrut.dat
+1 0 20 88 240 -1 0 0 0 1 0 0 0 -1 ruta21nm.dat
+1 4 -20 88 280 1 0 0 0 1 0 0 0 1 llantrut.dat
+1 0 -20 88 280 1 0 0 0 1 0 0 0 1 ruta21nm.dat
+1 0 100 88 280 -1 0 0 0 1 0 0 0 -1 jacen2x2.dat
+1 8 100 64 280 -1 0 0 0 1 0 0 0 -1 placa2x2.dat
+1 4 100 88 240 -1 0 0 0 1 0 0 0 -1 llantrut.dat
+1 0 100 88 240 -1 0 0 0 1 0 0 0 -1 ruta21nm.dat
+1 4 60 88 280 1 0 0 0 1 0 0 0 1 llantrut.dat
+1 0 60 88 280 1 0 0 0 1 0 0 0 1 ruta21nm.dat
+1 0 100 88 140 -1 0 0 0 1 0 0 0 -1 jacen2x2.dat
+1 8 100 64 140 -1 0 0 0 1 0 0 0 -1 placa2x2.dat
+1 4 100 88 100 -1 0 0 0 1 0 0 0 -1 llantrut.dat
+1 0 100 88 100 -1 0 0 0 1 0 0 0 -1 ruta21nm.dat
+1 4 60 88 140 1 0 0 0 1 0 0 0 1 llantrut.dat
+1 0 60 88 140 1 0 0 0 1 0 0 0 1 ruta21nm.dat
+1 117440511 100 24 312 -1 0 0 0 0 1 0 1 0 enganche.dat
+1 117440511 0 24 312 -1 0 0 0 0 1 0 1 0 enganche.dat
+0

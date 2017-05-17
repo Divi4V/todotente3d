@@ -1,0 +1,56 @@
+0 Sin_nombre
+0 Name: castillo_rp.ldr
+0 Author: cpcbegin
+0 Unofficial Model
+0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CONFIG 0 0
+1 19 30 64 0 1 0 0 0 1 0 0 0 1 ladri2x1.dat
+1 19 -30 64 0 1 0 0 0 1 0 0 0 1 ladri2x1.dat
+1 19 0 32 0 1 0 0 0 1 0 0 0 1 ladri2x1.dat
+1 19 30 0 0 1 0 0 0 1 0 0 0 1 ladri2x1.dat
+1 19 -30 0 0 1 0 0 0 1 0 0 0 1 ladri2x1.dat
+1 19 0 -32 0 1 0 0 0 1 0 0 0 1 ladri2x1.dat
+1 19 -30 32 0 1 0 0 0 1 0 0 0 1 ladri1x1.dat
+1 19 -30 -32 0 1 0 0 0 1 0 0 0 1 ladri1x1.dat
+1 19 30 -64 0 1 0 0 0 1 0 0 0 1 ladri2x1.dat
+1 19 -30 -64 0 1 0 0 0 1 0 0 0 1 ladri2x1.dat
+1 19 0 -96 0 1 0 0 0 1 0 0 0 1 ladri2x1.dat
+1 19 30 -128 0 1 0 0 0 1 0 0 0 1 ladri2x1.dat
+1 19 -30 -128 0 1 0 0 0 1 0 0 0 1 ladri2x1.dat
+1 19 0 -160 0 1 0 0 0 1 0 0 0 1 ladri2x1.dat
+1 19 -30 -96 0 1 0 0 0 1 0 0 0 1 ladri1x1.dat
+1 19 -30 -160 0 1 0 0 0 1 0 0 0 1 ladri1x1.dat
+1 19 60 -160 0 0 0 1 0 1 0 -1 0 0 ladri2x1.dat
+1 19 60 -160 -60 0 0 1 0 1 0 -1 0 0 ladri2x1.dat
+1 19 60 -160 -120 0 0 1 0 1 0 -1 0 0 ladri2x1.dat
+1 19 60 -160 -180 0 0 1 0 1 0 -1 0 0 ladri2x1.dat
+1 19 60 -128 -30 0 0 1 0 1 0 -1 0 0 ladri2x1.dat
+1 19 60 -128 -90 0 0 1 0 1 0 -1 0 0 ladri2x1.dat
+1 19 60 -128 -150 0 0 1 0 1 0 -1 0 0 ladri2x1.dat
+1 19 60 -128 -210 0 0 1 0 1 0 -1 0 0 ladri1x1.dat
+1 19 60 -96 0 0 0 1 0 1 0 -1 0 0 ladri2x1.dat
+1 19 60 -96 -60 0 0 1 0 1 0 -1 0 0 ladri2x1.dat
+1 19 60 -96 -120 0 0 1 0 1 0 -1 0 0 ladri2x1.dat
+1 19 60 -96 -180 0 0 1 0 1 0 -1 0 0 ladri2x1.dat
+1 19 60 -64 -30 0 0 1 0 1 0 -1 0 0 ladri2x1.dat
+1 19 60 -64 -90 0 0 1 0 1 0 -1 0 0 ladri2x1.dat
+1 19 60 -64 -150 0 0 1 0 1 0 -1 0 0 ladri2x1.dat
+1 19 60 -64 -210 0 0 1 0 1 0 -1 0 0 ladri1x1.dat
+1 19 60 -32 0 0 0 1 0 1 0 -1 0 0 ladri2x1.dat
+1 19 60 -32 -60 0 0 1 0 1 0 -1 0 0 ladri2x1.dat
+1 19 60 -32 -120 0 0 1 0 1 0 -1 0 0 ladri2x1.dat
+1 19 60 -32 -180 0 0 1 0 1 0 -1 0 0 ladri2x1.dat
+1 19 60 0 -30 0 0 1 0 1 0 -1 0 0 ladri2x1.dat
+1 19 60 0 -90 0 0 1 0 1 0 -1 0 0 ladri2x1.dat
+1 19 60 0 -150 0 0 1 0 1 0 -1 0 0 ladri2x1.dat
+1 19 60 0 -210 0 0 1 0 1 0 -1 0 0 ladri1x1.dat
+1 19 60 32 0 0 0 1 0 1 0 -1 0 0 ladri2x1.dat
+1 19 60 32 -60 0 0 1 0 1 0 -1 0 0 ladri2x1.dat
+1 19 60 32 -120 0 0 1 0 1 0 -1 0 0 ladri2x1.dat
+1 19 60 32 -180 0 0 1 0 1 0 -1 0 0 ladri2x1.dat
+1 19 60 64 -30 0 0 1 0 1 0 -1 0 0 ladri2x1.dat
+1 19 60 64 -90 0 0 1 0 1 0 -1 0 0 ladri2x1.dat
+1 19 60 64 -150 0 0 1 0 1 0 -1 0 0 ladri2x1.dat
+1 19 60 64 -210 0 0 1 0 1 0 -1 0 0 ladri1x1.dat
+1 19 -30 -192 0 0 0 1 0 1 0 -1 0 0 base8x4.dat
+0

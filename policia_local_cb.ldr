@@ -1,0 +1,26 @@
+0 Sin_nombre
+0 Name: policia_local_cb.ldr
+0 Author: cpcbegin
+0 Unofficial Model
+0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CONFIG 0 0
+1 9 -70 -32 0 1 0 0 0 1 0 0 0 1 placa6x8.dat
+1 9 -90 -8 20 1 0 0 0 1 0 0 0 1 jacena6.dat
+1 9 -90 16 20 1 0 0 0 1 0 0 0 1 jacena6.dat
+1 9 -90 40 20 1 0 0 0 1 0 0 0 1 jacena6.dat
+1 9 -90 -8 120 1 0 0 0 1 0 0 0 1 jacena6.dat
+1 9 -90 16 120 1 0 0 0 1 0 0 0 1 jacena6.dat
+1 9 -90 40 120 1 0 0 0 1 0 0 0 1 jacena6.dat
+1 9 110 56 60 0 0 -1 0 1 0 1 0 0 cabnuecr.dat
+1 0 90 -24 40 0 0 -1 0 1 0 1 0 0 placa2.dat
+1 0 90 -24 80 0 0 -1 0 1 0 1 0 0 placa2.dat
+1 15 -50 56 100 0 0 1 0 1 0 -1 0 0 guardabr.dat
+1 15 -10 56 20 0 0 -1 0 1 0 1 0 0 guardabr.dat
+1 0 90 -24 0 0 0 -1 0 1 0 1 0 0 placa2.dat
+1 9 -10 48 20 -1 0 0 0 1 0 0 0 -1 placa2.dat
+1 9 -50 48 20 -1 0 0 0 1 0 0 0 -1 placa2.dat
+1 9 30 48 20 -1 0 0 0 1 0 0 0 -1 placa2.dat
+1 9 -10 48 120 -1 0 0 0 1 0 0 0 -1 placa2.dat
+1 9 -50 48 120 -1 0 0 0 1 0 0 0 -1 placa2.dat
+1 9 30 48 120 -1 0 0 0 1 0 0 0 -1 placa2.dat
+0

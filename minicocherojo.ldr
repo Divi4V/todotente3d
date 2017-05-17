@@ -1,0 +1,53 @@
+0 Mini coche rojo
+0 Name: minicocherojo.ldr
+0 Author: CPCBEGIN (modelo sergiexp)
+0 Unofficial Model
+0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CONFIG 0 0
+1 4 -100 8 0 0 0 -1 0 1 0 1 0 0 placa4x8.dat
+1 15 -120 8 0 -1 0 0 0 1 0 0 0 -1 placa2.dat
+1 39 -100 8 0 -1 0 0 0 1 0 0 0 -1 placa1.dat
+1 39 -160 8 0 -1 0 0 0 1 0 0 0 -1 placa1.dat
+1 4 -180 0 -20 1 0 0 0 1 0 0 0 1 baldgord.dat
+1 4 -140 0 -20 1 0 0 0 1 0 0 0 1 baldgord.dat
+1 14 -100 0 120 0 0 -1 0 1 0 1 0 0 placa2.dat
+1 14 -160 0 120 0 0 -1 0 1 0 1 0 0 placa2.dat
+1 4 -160 32 60 0 0 -1 0 1 0 1 0 0 jacena2.dat
+1 4 -100 32 60 0 0 -1 0 1 0 1 0 0 jacena2.dat
+1 4 -100 32 20 -1 0 0 0 1 0 0 0 -1 cuna.dat
+1 4 -140 32 20 -1 0 0 0 1 0 0 0 -1 cuna.dat
+1 7 -120 0 120 0 0 -1 0 1 0 1 0 0 placa2x2.dat
+1 1 -120 0 40 0 0 -1 0 1 0 1 0 0 placa2x2.dat
+1 1 -120 0 80 0 0 -1 0 1 0 1 0 0 placa2x2.dat
+1 1 -100 0 40 0 0 -1 0 1 0 1 0 0 placa4.dat
+1 1 -160 0 40 0 0 -1 0 1 0 1 0 0 placa4.dat
+1 4 -100 0 40 -1 0 0 0 1 0 0 0 -1 placa4.dat
+1 36 -100 -24 100 -1 0 0 0 1 0 0 0 -1 placa4.dat
+1 36 -100 -8 100 -1 0 0 0 1 0 0 0 -1 placa4.dat
+1 36 -100 -16 80 -1 0 0 0 1 0 0 0 -1 tejado.dat
+1 36 -140 -16 80 -1 0 0 0 1 0 0 0 -1 tejado.dat
+1 36 -100 -8 100 -1 0 0 0 1 0 0 0 -1 tejado.dat
+1 36 -140 -8 100 -1 0 0 0 1 0 0 0 -1 tejado.dat
+1 32 -180 -8 60 1 0 0 0 1 0 0 0 1 pico.dat
+1 32 -140 -8 60 1 0 0 0 1 0 0 0 1 pico.dat
+1 32 -180 -8 60 1 0 0 0 1 0 0 0 1 jacena4.dat
+1 1 -140 -32 100 -1 0 0 0 1 0 0 0 -1 bald2x2.dat
+1 1 -100 -32 100 -1 0 0 0 1 0 0 0 -1 bald2x2.dat
+1 4 -140 -8 20 0 0 -1 0 1 0 1 0 0 bald2.dat
+1 4 -100 -8 20 0 0 -1 0 1 0 1 0 0 bald2.dat
+1 0 -120 32 100 0 0 -1 0 1 0 1 0 0 jacen2x2.dat
+1 0 -120 32 20 0 0 -1 0 1 0 1 0 0 jacen2x2.dat
+1 0 -120 0 140 1 0 0 0 1 0 0 0 1 helillnt.dat
+1 0 -120 0 140 1 0 0 0 1 0 0 0 1 helineum.dat
+1 0 -120 0 60 1 0 0 0 1 0 0 0 1 helillnt.dat
+1 0 -120 0 60 1 0 0 0 1 0 0 0 1 helineum.dat
+1 0 -160 0 20 -1 0 0 0 1 0 0 0 -1 helillnt.dat
+1 0 -160 0 20 -1 0 0 0 1 0 0 0 -1 helineum.dat
+1 0 -160 0 100 -1 0 0 0 1 0 0 0 -1 helillnt.dat
+1 0 -160 0 100 -1 0 0 0 1 0 0 0 -1 helineum.dat
+1 4 -140 32 140 -1 0 0 0 1 0 0 0 -1 rallado2.dat
+1 4 -100 32 140 -1 0 0 0 1 0 0 0 -1 rallado2.dat
+1 36 -100 -8 160 -1 0 0 0 1 0 0 0 -1 jacena4.dat
+1 4 -180 -32 160 0 0 1 0 1 0 -1 0 0 bald2r.dat
+1 4 -100 -32 140 0 0 -1 0 1 0 1 0 0 bald2r.dat
+0

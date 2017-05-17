@@ -1,0 +1,32 @@
+0 Edificio antiguo Vialia Malaga
+0 Name: puerta_con_arco.ldr
+0 Author: CPCBEGIN
+0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CONFIG 0 0
+1 6 -80 80 0 1 0 0 0 1 0 0 0 1 puertamr.dat
+1 47 -80 80 0 1 0 0 0 1 0 0 0 1 puertacr.dat
+0 Unofficial Model
+1 15 -80 8 0 1 0 0 0 1 0 0 0 1 cuna.dat
+1 15 -140 -16 0 1 0 0 0 1 0 0 0 1 jacena8.dat
+1 15 -40 8 0 1 0 0 0 1 0 0 0 1 jacena4.dat
+1 15 -160 8 0 1 0 0 0 1 0 0 0 1 jacena4.dat
+1 15 -180 32 0 1 0 0 0 1 0 0 0 1 jacena4.dat
+1 15 -20 32 0 1 0 0 0 1 0 0 0 1 jacena4.dat
+1 15 -20 56 0 1 0 0 0 1 0 0 0 1 jacena4.dat
+1 15 -20 80 0 1 0 0 0 1 0 0 0 1 jacena4.dat
+1 15 -180 56 0 1 0 0 0 1 0 0 0 1 jacena4.dat
+1 15 -180 80 0 1 0 0 0 1 0 0 0 1 jacena4.dat
+1 15 -60 88 -20 0 0 -1 0 1 0 1 0 0 bald2.dat
+1 15 -140 88 0 1 0 0 0 1 0 0 0 1 placa2x8.dat
+1 15 -80 96 -20 1 0 0 0 1 0 0 0 1 placa2x2.dat
+1 15 -20 96 -20 0 0 -1 0 1 0 1 0 0 placa2.dat
+1 15 -80 96 -20 0 0 -1 0 1 0 1 0 0 placa2.dat
+1 15 -20 88 -20 0 0 -1 0 1 0 1 0 0 bald2.dat
+1 15 -90 32 10 0 0 -1 0 1 0 1 0 0 ancla1x2.dat
+1 15 -30 32 10 0 0 -1 0 1 0 1 0 0 ancla1x2.dat
+1 15 -20 56 -10 0 0 -1 0 1 0 1 0 0 jacena2.dat
+1 15 -80 56 -10 0 0 -1 0 1 0 1 0 0 jacena2.dat
+1 15 -20 80 -10 0 0 -1 0 1 0 1 0 0 jacena2.dat
+1 15 -80 80 -10 0 0 -1 0 1 0 1 0 0 jacena2.dat
+1 15 -60 8 -8 1 0 0 0 0 1 0 -1 0 popa4p.dat
+0

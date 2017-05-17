@@ -1,0 +1,621 @@
+0 Tranvia del Morlaco (Malaga)
+0 Name: Tranviamorlaco2.ldr
+0 Author: cpcbegin
+0 Unofficial Model
+0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CONFIG -2 1
+0 MLCAD BTG Gsdsdroup name
+0 MLCAD HIDE 1 15 0 -24 190 0 0 1 0 1 0 -1 0 0 vntcasam.dat
+0 MLCAD BTG Gsdsdroup name
+0 MLCAD HIDE 1 47 10 -24 190 0 0 1 0 1 0 -1 0 0 vntthorv.dat
+0 MLCAD BTG Gsdsdroup name
+0 MLCAD HIDE 1 15 0 -24 150 0 0 1 0 1 0 -1 0 0 vntcasam.dat
+0 MLCAD BTG Gsdsdroup name
+0 MLCAD HIDE 1 47 10 -24 150 0 0 1 0 1 0 -1 0 0 vntthorv.dat
+0 MLCAD BTG Gsdsdroup name
+0 MLCAD HIDE 1 15 0 -24 110 0 0 1 0 1 0 -1 0 0 vntcasam.dat
+0 MLCAD BTG Gsdsdroup name
+0 MLCAD HIDE 1 47 10 -24 110 0 0 1 0 1 0 -1 0 0 vntthorv.dat
+0 MLCAD BTG Gsdsdroup name
+0 MLCAD HIDE 1 15 0 -24 70 0 0 1 0 1 0 -1 0 0 vntcasam.dat
+0 MLCAD BTG Gsdsdroup name
+0 MLCAD HIDE 1 47 10 -24 70 0 0 1 0 1 0 -1 0 0 vntthorv.dat
+0 MLCAD BTG Gsdsdroup name
+0 MLCAD HIDE 1 15 0 -24 30 0 0 1 0 1 0 -1 0 0 vntcasam.dat
+0 MLCAD BTG Gsdsdroup name
+0 MLCAD HIDE 1 47 10 -24 30 0 0 1 0 1 0 -1 0 0 vntthorv.dat
+0 MLCAD BTG Gsdsdroup name
+0 MLCAD HIDE 1 15 0 -24 -10 0 0 1 0 1 0 -1 0 0 vntcasam.dat
+0 MLCAD BTG Gsdsdroup name
+0 MLCAD HIDE 1 47 10 -24 -10 0 0 1 0 1 0 -1 0 0 vntthorv.dat
+0 GROUP 12 Gsdsdroup name
+0 MLCAD HIDE 1 9 20 32 -50 0 0 -1 0 1 0 1 0 0 jacena8.dat
+0 MLCAD HIDE 1 9 110 32 -100 0 0 -1 0 1 0 1 0 0 jacena1.dat
+0 MLCAD HIDE 1 9 10 32 -100 0 0 -1 0 1 0 1 0 0 jacena1.dat
+0 MLCAD HIDE 1 9 20 32 110 0 0 -1 0 1 0 1 0 0 jacena4.dat
+0 MLCAD HIDE 1 9 120 32 -50 0 0 -1 0 1 0 1 0 0 jacena8.dat
+0 MLCAD HIDE 1 9 120 32 110 0 0 -1 0 1 0 1 0 0 jacena4.dat
+0 MLCAD HIDE 1 19 20 8 -30 1 0 0 0 1 0 0 0 1 alfajacn.dat
+0 MLCAD HIDE 1 19 20 32 -50 1 0 0 0 1 0 0 0 1 jacena2.dat
+0 MLCAD HIDE 1 19 90 32 -40 1 0 0 0 1 0 0 0 1 jacena1.dat
+0 MLCAD HIDE 1 19 90 8 -40 1 0 0 0 1 0 0 0 1 jacena1.dat
+0 MLCAD HIDE 1 19 100 32 130 -1 0 0 0 1 0 0 0 -1 jacena2.dat
+0 MLCAD HIDE 1 19 100 32 90 -1 0 0 0 1 0 0 0 -1 jacena2.dat
+0 MLCAD HIDE 1 19 100 32 10 -1 0 0 0 1 0 0 0 -1 jacena2.dat
+0 MLCAD HIDE 1 19 100 32 50 -1 0 0 0 1 0 0 0 -1 jacena2.dat
+0 MLCAD HIDE 1 19 80 8 160 -1 0 0 0 1 0 0 0 -1 pastilla.dat
+0 MLCAD HIDE 1 19 80 8 120 -1 0 0 0 1 0 0 0 -1 pastilla.dat
+0 MLCAD HIDE 1 19 80 8 80 -1 0 0 0 1 0 0 0 -1 pastilla.dat
+0 MLCAD HIDE 1 19 80 8 40 -1 0 0 0 1 0 0 0 -1 pastilla.dat
+0 MLCAD HIDE 1 19 80 8 0 -1 0 0 0 1 0 0 0 -1 pastilla.dat
+0 MLCAD HIDE 1 19 100 32 170 -1 0 0 0 1 0 0 0 -1 jacena2.dat
+0 Sin_nombre
+0 Name: morlaco.ldr
+0 Author: cpcbegin
+0 Unofficial Model
+0 MLCAD BTG ddfzs
+0 MLCAD HIDE 1 15 120 -24 -50 0 0 -1 0 1 0 1 0 0 vntcasam.dat
+0 MLCAD BTG ddfzs
+0 MLCAD HIDE 1 47 110 -24 -50 0 0 -1 0 1 0 1 0 0 vntthorv.dat
+0 MLCAD BTG ddfzs
+0 MLCAD HIDE 1 15 120 -24 -10 0 0 -1 0 1 0 1 0 0 vntcasam.dat
+0 MLCAD BTG ddfzs
+0 MLCAD HIDE 1 47 110 -24 -10 0 0 -1 0 1 0 1 0 0 vntthorv.dat
+0 MLCAD BTG ddfzs
+0 MLCAD HIDE 1 15 120 -24 30 0 0 -1 0 1 0 1 0 0 vntcasam.dat
+0 MLCAD BTG ddfzs
+0 MLCAD HIDE 1 47 110 -24 30 0 0 -1 0 1 0 1 0 0 vntthorv.dat
+0 MLCAD BTG ddfzs
+0 MLCAD HIDE 1 15 120 -24 70 0 0 -1 0 1 0 1 0 0 vntcasam.dat
+0 MLCAD BTG ddfzs
+0 MLCAD HIDE 1 47 110 -24 70 0 0 -1 0 1 0 1 0 0 vntthorv.dat
+0 MLCAD BTG ddfzs
+0 MLCAD HIDE 1 15 120 -24 110 0 0 -1 0 1 0 1 0 0 vntcasam.dat
+0 MLCAD BTG ddfzs
+0 MLCAD HIDE 1 47 110 -24 110 0 0 -1 0 1 0 1 0 0 vntthorv.dat
+0 MLCAD BTG ddfzs
+0 MLCAD HIDE 1 15 120 -24 150 0 0 -1 0 1 0 1 0 0 vntcasam.dat
+0 MLCAD BTG ddfzs
+0 MLCAD HIDE 1 47 110 -24 150 0 0 -1 0 1 0 1 0 0 vntthorv.dat
+0 GROUP 12 ddfzs
+0 MLCAD HIDE 1 9 100 8 -50 0 0 -1 0 1 0 1 0 0 jacena6.dat
+0 MLCAD HIDE 1 9 100 8 70 0 0 -1 0 1 0 1 0 0 jacena6.dat
+0 MLCAD HIDE 1 9 0 8 -50 0 0 -1 0 1 0 1 0 0 jacena6.dat
+0 MLCAD HIDE 1 9 0 8 70 0 0 -1 0 1 0 1 0 0 jacena6.dat
+0 MLCAD HIDE 1 7 110 -47 240 0 0 -1 1 0 0 0 -1 0 eje15.dat
+0 MLCAD HIDE 1 7 10 -47 240 0 0 -1 1 0 0 0 -1 0 eje15.dat
+0 MLCAD HIDE 1 25 20 -16 -50 1 0 0 0 1 0 0 0 1 vntthorm.dat
+0 MLCAD BTG Grosdup name
+0 MLCAD HIDE 1 25 80 -16 -30 0 0 1 0 1 0 -1 0 0 ventana1m.dat
+0 MLCAD BTG Grosdup name
+0 MLCAD HIDE 1 47 100 -16 -30 -1 0 0 0 1 0 0 0 -1 ventana1c.dat
+0 GROUP 2 Grosdup name
+0 MLCAD BTG Gsdssdroup name
+0 MLCAD HIDE 1 25 40 -24 -140 1 0 0 0 1 0 0 0 1 vntthorm.dat
+0 MLCAD BTG Gsdssdroup name
+0 MLCAD HIDE 1 25 80 -24 -140 1 0 0 0 1 0 0 0 1 vntthorm.dat
+0 MLCAD BTG Gsdssdroup name
+0 MLCAD HIDE 1 25 0 -24 -140 1 0 0 0 1 0 0 0 1 vntthorm.dat
+0 MLCAD HIDE 1 9 20 32 -130 1 0 0 0 1 0 0 0 1 jacen2x4.dat
+0 MLCAD HIDE 1 9 110 8 -100 0 0 -1 0 1 0 1 0 0 jacena1.dat
+0 MLCAD HIDE 1 9 10 8 -100 0 0 -1 0 1 0 1 0 0 jacena1.dat
+0 MLCAD HIDE 1 9 10 32 240 0 0 -1 0 1 0 1 0 0 jacena1.dat
+0 MLCAD HIDE 1 9 10 8 240 0 0 -1 0 1 0 1 0 0 jacena1.dat
+0 MLCAD HIDE 1 9 20 8 -130 1 0 0 0 1 0 0 0 1 jacen2x4.dat
+0 MLCAD HIDE 1 9 20 32 230 1 0 0 0 1 0 0 0 1 jacen2x4.dat
+0 MLCAD HIDE 1 9 20 8 230 1 0 0 0 1 0 0 0 1 jacen2x4.dat
+0 MLCAD HIDE 1 47 20 -16 -50 1 0 0 0 1 0 0 0 1 vntcasac.dat
+0 MLCAD BTG Gsdssdroup name
+0 MLCAD HIDE 1 47 40 -24 -140 1 0 0 0 1 0 0 0 1 vntcasac.dat
+0 MLCAD BTG Gsdssdroup name
+0 MLCAD HIDE 1 47 80 -24 -140 1 0 0 0 1 0 0 0 1 vntcasac.dat
+0 MLCAD BTG Gsdssdroup name
+0 MLCAD HIDE 1 47 0 -24 -140 1 0 0 0 1 0 0 0 1 vntcasac.dat
+0 GROUP 6 Gsdssdroup name
+0 MLCAD HIDE 1 9 110 32 240 0 0 1 0 1 0 -1 0 0 jacena1.dat
+0 MLCAD HIDE 1 9 110 8 240 0 0 1 0 1 0 -1 0 0 jacena1.dat
+0 MLCAD BTG Group创 name
+0 MLCAD HIDE 1 25 80 -24 280 -1 0 0 0 1 0 0 0 -1 vntthorm.dat
+0 MLCAD BTG Group创 name
+0 MLCAD HIDE 1 25 40 -24 280 -1 0 0 0 1 0 0 0 -1 vntthorm.dat
+0 MLCAD BTG Group创 name
+0 MLCAD HIDE 1 25 120 -24 280 -1 0 0 0 1 0 0 0 -1 vntthorm.dat
+0 MLCAD HIDE 1 19 20 -24 220 1 0 0 0 1 0 0 0 1 bald2x2r.dat
+0 MLCAD HIDE 1 15 80 -72 260 0 0 -1 0 1 0 1 0 0 bald2.dat
+0 MLCAD HIDE 1 15 40 -72 260 0 0 -1 0 1 0 1 0 0 bald2.dat
+0 MLCAD HIDE 1 15 120 -72 260 0 0 -1 0 1 0 1 0 0 bald2.dat
+0 MLCAD HIDE 1 19 60 -24 220 1 0 0 0 1 0 0 0 1 bald2x2r.dat
+0 MLCAD BTG Group创 name
+0 MLCAD HIDE 1 47 80 -24 280 -1 0 0 0 1 0 0 0 -1 vntcasac.dat
+0 MLCAD BTG Group创 name
+0 MLCAD HIDE 1 47 40 -24 280 -1 0 0 0 1 0 0 0 -1 vntcasac.dat
+0 MLCAD BTG Group创 name
+0 MLCAD HIDE 1 47 120 -24 280 -1 0 0 0 1 0 0 0 -1 vntcasac.dat
+0 GROUP 6 Group创 name
+0 MLCAD HIDE 1 15 20 -16 280 0 0 1 0 1 0 -1 0 0 placa2x3.dat
+0 MLCAD BTG Grsdsoup name
+0 MLCAD HIDE 1 15 0 -16 250 0 0 1 0 1 0 -1 0 0 placa1.dat
+0 MLCAD BTG Grsdsoup name
+0 MLCAD HIDE 1 15 0 -16 280 0 0 1 0 1 0 -1 0 0 placa1.dat
+0 GROUP 2 Grsdsoup name
+0 MLCAD HIDE 1 15 0 -64 250 0 0 1 0 1 0 -1 0 0 placa1.dat
+0 MLCAD BTG Group aaaname
+0 MLCAD HIDE 1 15 100 -16 250 0 0 1 0 1 0 -1 0 0 placa1.dat
+0 MLCAD BTG Group aaaname
+0 MLCAD HIDE 1 15 100 -16 280 0 0 1 0 1 0 -1 0 0 placa1.dat
+0 GROUP 2 Group aaaname
+0 MLCAD HIDE 1 15 60 -16 280 0 0 1 0 1 0 -1 0 0 placa2x3.dat
+0 MLCAD BTG Groaasaup name
+0 MLCAD HIDE 1 7 10 -47 -100 0 0 1 1 0 0 0 1 0 eje15.dat
+0 MLCAD BTG Groaasaup name
+0 MLCAD HIDE 1 7 110 -47 -100 0 0 1 1 0 0 0 1 0 eje15.dat
+0 MLCAD BTG Groaasaup name
+0 MLCAD HIDE 1 19 100 -24 -80 -1 0 0 0 1 0 0 0 -1 bald2x2r.dat
+0 MLCAD BTG Groaasaup name
+0 MLCAD HIDE 1 15 40 -72 -120 0 0 1 0 1 0 -1 0 0 bald2.dat
+0 MLCAD BTG Groaasaup name
+0 MLCAD HIDE 1 15 80 -72 -120 0 0 1 0 1 0 -1 0 0 bald2.dat
+0 MLCAD BTG Groaasaup name
+0 MLCAD HIDE 1 15 0 -72 -120 0 0 1 0 1 0 -1 0 0 bald2.dat
+0 MLCAD BTG Groaasaup name
+0 MLCAD HIDE 1 19 60 -24 -80 -1 0 0 0 1 0 0 0 -1 bald2x2r.dat
+0 MLCAD BTG Groaasaup name
+0 MLCAD HIDE 1 15 100 -16 -140 0 0 -1 0 1 0 1 0 0 placa2x3.dat
+0 MLCAD BTG Groaasaup name
+0 MLCAD HIDE 1 15 120 -16 -110 0 0 -1 0 1 0 1 0 0 placa1.dat
+0 MLCAD BTG Groaasaup name
+0 MLCAD HIDE 1 15 120 -16 -140 0 0 -1 0 1 0 1 0 0 placa1.dat
+0 MLCAD BTG Groaasaup name
+0 MLCAD HIDE 1 15 120 -64 -110 0 0 -1 0 1 0 1 0 0 placa1.dat
+0 MLCAD BTG Groaasaup name
+0 MLCAD HIDE 1 15 20 -16 -110 0 0 -1 0 1 0 1 0 0 placa1.dat
+0 MLCAD BTG Groaasaup name
+0 MLCAD HIDE 1 15 20 -16 -140 0 0 -1 0 1 0 1 0 0 placa1.dat
+0 MLCAD BTG Groaasaup name
+0 MLCAD HIDE 1 15 60 -16 -140 0 0 -1 0 1 0 1 0 0 placa2x3.dat
+0 MLCAD HIDE 1 15 120 -64 230 0 0 -1 0 1 0 1 0 0 placa1.dat
+0 MLCAD BTG Groaasaup name
+0 MLCAD HIDE 1 15 20 -64 -110 0 0 -1 0 1 0 1 0 0 placa1.dat
+0 GROUP 15 Groaasaup name
+1 0 120 40 30 0 0 -1 0 1 0 1 0 0 placa6x8.dat
+0 MLCAD BTG fffff
+1 0 85 48 70 1 0 0 0 1 0 0 0 1 baldc2.dat
+0 MLCAD BTG fffff
+1 0 85 48 30 1 0 0 0 1 0 0 0 1 baldc2.dat
+1 0 60 56 130 1 0 0 0 1 0 0 0 1 rotorsup.dat
+0 MLCAD BTG dddd
+1 8 -8 86.5 120 -1 0 0 0 1 0 0 0 -1 nrutembl.dat
+0 MLCAD BTG dddd
+1 0 70 66 140 1 0 0 0 -1 0 0 0 -1 helillnt.dat
+0 MLCAD BTG dddd
+1 0 70 192 150 1 0 0 0 0 -1 0 1 0 extenarr.dat
+0 MLCAD BTG dddd
+1 7 60 76 140 1 0 0 0 0 -1 0 1 0 helireje.dat
+0 MLCAD BTG dddd
+1 8 85.5 66 150 0 -1 0 0 0 1 -1 0 0 placa1.dat
+0 MLCAD BTG dddd
+1 8 128 86.5 160 1 0 0 0 1 0 0 0 1 nrutembl.dat
+0 MLCAD BTG dddd
+1 0 50 66 140 -1 0 0 0 -1 0 0 0 1 helillnt.dat
+0 MLCAD BTG dddd
+1 8 34.5 66 130 0 1 0 0 0 1 1 0 0 placa1.dat
+0 GROUP 8 dddd
+0 MLCAD BTG Grffoup name
+1 8 128 86.5 20 1 0 0 0 1 0 0 0 1 nrutembl.dat
+0 MLCAD BTG Grffoup name
+1 0 50 66 0 -1 0 0 0 -1 0 0 0 1 helillnt.dat
+0 MLCAD BTG Grffoup name
+1 0 50 192 -10 -1 0 0 0 0 -1 0 -1 0 extenarr.dat
+0 MLCAD BTG Grffoup name
+1 7 60 76 0 -1 0 0 0 0 -1 0 -1 0 helireje.dat
+0 MLCAD BTG Grffoup name
+1 8 34.5 66 -10 0 1 0 0 0 1 1 0 0 placa1.dat
+0 MLCAD BTG Grffoup name
+1 8 -8 86.5 -20 -1 0 0 0 1 0 0 0 -1 nrutembl.dat
+0 MLCAD BTG Grffoup name
+1 0 70 66 0 1 0 0 0 -1 0 0 0 -1 helillnt.dat
+0 MLCAD BTG Grffoup name
+1 8 85.5 66 10 0 -1 0 0 0 1 -1 0 0 placa1.dat
+0 GROUP 8 Grffoup name
+0 MLCAD BTG f
+1 0 60 56 130 1 0 0 0 1 0 0 0 1 rotorinf.dat
+1 0 60 56 10 1 0 0 0 1 0 0 0 1 rotorsup.dat
+0 MLCAD BTG Gsd
+1 0 60 56 10 1 0 0 0 1 0 0 0 1 rotorinf.dat
+0 MLCAD BTG f
+1 0 40 64 150 0 0 1 0 1 0 -1 0 0 placa2x2.dat
+0 GROUP 2 f
+0 MLCAD BTG Gsd
+1 0 40 64 30 0 0 1 0 1 0 -1 0 0 placa2x2.dat
+0 GROUP 2 Gsd
+0 MLCAD BTG Group naame
+0 MLCAD HIDE 1 7 60 112 -2 -1 0 0 0 1 0 0 0 -1 remate62.dat
+0 MLCAD BTG Group naame
+0 MLCAD HIDE 1 7 60 112 -122 1 0 0 0 1 0 0 0 1 remate62.dat
+0 MLCAD BTG Group naame
+0 MLCAD HIDE 1 6 40 104 -2 0 0 1 0 1 0 -1 0 0 bald2.dat
+0 MLCAD BTG Group naame
+0 MLCAD HIDE 1 6 40 104 -42 0 0 1 0 1 0 -1 0 0 bald2.dat
+0 MLCAD BTG Group naame
+0 MLCAD HIDE 1 6 40 104 -82 0 0 1 0 1 0 -1 0 0 bald2.dat
+0 MLCAD BTG Group naame
+0 MLCAD HIDE 1 6 0 112 -2 0 0 1 0 1 0 -1 0 0 bald1.dat
+0 MLCAD BTG Group naame
+0 MLCAD HIDE 1 6 100 112 -2 0 0 1 0 1 0 -1 0 0 bald1.dat
+0 MLCAD BTG Group naame
+0 MLCAD HIDE 1 6 0 112 -42 0 0 1 0 1 0 -1 0 0 bald1.dat
+0 MLCAD BTG Group naame
+0 MLCAD HIDE 1 6 100 112 -42 0 0 1 0 1 0 -1 0 0 bald1.dat
+0 MLCAD BTG Group naame
+0 MLCAD HIDE 1 6 0 112 -82 0 0 1 0 1 0 -1 0 0 bald1.dat
+0 MLCAD BTG Group naame
+0 MLCAD HIDE 1 6 100 112 -82 0 0 1 0 1 0 -1 0 0 bald1.dat
+0 GROUP 11 Group naame
+0 MLCAD BTG fiuy
+0 MLCAD HIDE 1 7 60 112 -122 -1 0 0 0 1 0 0 0 -1 remate62.dat
+0 MLCAD BTG fiuy
+0 MLCAD HIDE 1 7 60 112 -242 1 0 0 0 1 0 0 0 1 remate62.dat
+0 MLCAD BTG fiuy
+0 MLCAD HIDE 1 6 40 104 -122 0 0 1 0 1 0 -1 0 0 bald2.dat
+0 MLCAD BTG fiuy
+0 MLCAD HIDE 1 6 40 104 -162 0 0 1 0 1 0 -1 0 0 bald2.dat
+0 MLCAD BTG fiuy
+0 MLCAD HIDE 1 6 40 104 -202 0 0 1 0 1 0 -1 0 0 bald2.dat
+0 MLCAD BTG fiuy
+0 MLCAD HIDE 1 6 0 112 -122 0 0 1 0 1 0 -1 0 0 bald1.dat
+0 MLCAD BTG fiuy
+0 MLCAD HIDE 1 6 100 112 -122 0 0 1 0 1 0 -1 0 0 bald1.dat
+0 MLCAD BTG fiuy
+0 MLCAD HIDE 1 6 0 112 -162 0 0 1 0 1 0 -1 0 0 bald1.dat
+0 MLCAD BTG fiuy
+0 MLCAD HIDE 1 6 100 112 -162 0 0 1 0 1 0 -1 0 0 bald1.dat
+0 MLCAD BTG fiuy
+0 MLCAD HIDE 1 6 0 112 -202 0 0 1 0 1 0 -1 0 0 bald1.dat
+0 MLCAD BTG fiuy
+0 MLCAD HIDE 1 6 100 112 -202 0 0 1 0 1 0 -1 0 0 bald1.dat
+0 GROUP 11 fiuy
+0 MLCAD BTG Grdme
+0 MLCAD HIDE 1 7 60 112 358 -1 0 0 0 1 0 0 0 -1 remate62.dat
+0 MLCAD BTG Grdme
+0 MLCAD HIDE 1 7 60 112 238 1 0 0 0 1 0 0 0 1 remate62.dat
+0 MLCAD BTG Grdme
+0 MLCAD HIDE 1 6 40 104 358 0 0 1 0 1 0 -1 0 0 bald2.dat
+0 MLCAD BTG Grdme
+0 MLCAD HIDE 1 6 40 104 318 0 0 1 0 1 0 -1 0 0 bald2.dat
+0 MLCAD BTG Grdme
+0 MLCAD HIDE 1 6 40 104 278 0 0 1 0 1 0 -1 0 0 bald2.dat
+0 MLCAD BTG Grdme
+0 MLCAD HIDE 1 6 0 112 358 0 0 1 0 1 0 -1 0 0 bald1.dat
+0 MLCAD BTG Grdme
+0 MLCAD HIDE 1 6 100 112 358 0 0 1 0 1 0 -1 0 0 bald1.dat
+0 MLCAD BTG Grdme
+0 MLCAD HIDE 1 6 0 112 318 0 0 1 0 1 0 -1 0 0 bald1.dat
+0 MLCAD BTG Grdme
+0 MLCAD HIDE 1 6 100 112 318 0 0 1 0 1 0 -1 0 0 bald1.dat
+0 MLCAD BTG Grdme
+0 MLCAD HIDE 1 6 0 112 278 0 0 1 0 1 0 -1 0 0 bald1.dat
+0 MLCAD BTG Grdme
+0 MLCAD HIDE 1 6 100 112 278 0 0 1 0 1 0 -1 0 0 bald1.dat
+0 GROUP 11 Grdme
+0 MLCAD BTG Grou wt
+0 MLCAD HIDE 1 7 60 112 238 -1 0 0 0 1 0 0 0 -1 remate62.dat
+0 MLCAD BTG Grou wt
+0 MLCAD HIDE 1 7 60 112 118 1 0 0 0 1 0 0 0 1 remate62.dat
+0 MLCAD BTG Grou wt
+0 MLCAD HIDE 1 6 40 104 238 0 0 1 0 1 0 -1 0 0 bald2.dat
+0 MLCAD BTG Grou wt
+0 MLCAD HIDE 1 6 40 104 198 0 0 1 0 1 0 -1 0 0 bald2.dat
+0 MLCAD BTG Grou wt
+0 MLCAD HIDE 1 6 40 104 158 0 0 1 0 1 0 -1 0 0 bald2.dat
+0 MLCAD BTG Grou wt
+0 MLCAD HIDE 1 6 0 112 238 0 0 1 0 1 0 -1 0 0 bald1.dat
+0 MLCAD BTG Grou wt
+0 MLCAD HIDE 1 6 100 112 238 0 0 1 0 1 0 -1 0 0 bald1.dat
+0 MLCAD BTG Grou wt
+0 MLCAD HIDE 1 6 0 112 198 0 0 1 0 1 0 -1 0 0 bald1.dat
+0 MLCAD BTG Grou wt
+0 MLCAD HIDE 1 6 100 112 198 0 0 1 0 1 0 -1 0 0 bald1.dat
+0 MLCAD BTG Grou wt
+0 MLCAD HIDE 1 6 0 112 158 0 0 1 0 1 0 -1 0 0 bald1.dat
+0 MLCAD BTG Grou wt
+0 MLCAD HIDE 1 6 100 112 158 0 0 1 0 1 0 -1 0 0 bald1.dat
+0 MLCAD BTG Grou wt
+0 MLCAD HIDE 1 7 60 112 118 -1 0 0 0 1 0 0 0 -1 remate62.dat
+0 MLCAD BTG Grou wt
+0 MLCAD HIDE 1 7 60 112 -2 1 0 0 0 1 0 0 0 1 remate62.dat
+0 MLCAD BTG Grou wt
+0 MLCAD HIDE 1 6 40 104 118 0 0 1 0 1 0 -1 0 0 bald2.dat
+0 MLCAD BTG Grou wt
+0 MLCAD HIDE 1 6 40 104 78 0 0 1 0 1 0 -1 0 0 bald2.dat
+0 MLCAD BTG Grou wt
+0 MLCAD HIDE 1 6 40 104 38 0 0 1 0 1 0 -1 0 0 bald2.dat
+0 MLCAD BTG Grou wt
+0 MLCAD HIDE 1 6 0 112 118 0 0 1 0 1 0 -1 0 0 bald1.dat
+0 MLCAD BTG Grou wt
+0 MLCAD HIDE 1 6 100 112 118 0 0 1 0 1 0 -1 0 0 bald1.dat
+0 MLCAD BTG Grou wt
+0 MLCAD HIDE 1 6 0 112 78 0 0 1 0 1 0 -1 0 0 bald1.dat
+0 MLCAD BTG Grou wt
+0 MLCAD HIDE 1 6 100 112 78 0 0 1 0 1 0 -1 0 0 bald1.dat
+0 MLCAD BTG Grou wt
+0 MLCAD HIDE 1 6 0 112 38 0 0 1 0 1 0 -1 0 0 bald1.dat
+0 MLCAD BTG Grou wt
+0 MLCAD HIDE 1 6 100 112 38 0 0 1 0 1 0 -1 0 0 bald1.dat
+0 GROUP 22 Grou wt
+0 MLCAD BTG fffff
+1 0 60 64 50 0 -1 0 0 0 1 -1 0 0 enganche.dat
+0 MLCAD BTG fffff
+1 0 110 40 -50 0 1 0 0 0 1 1 0 0 enganche.dat
+0 MLCAD BTG fffff
+1 0 115 74.2 50.314 0 0 1 0.965926 0.258819 0 -0.258819 0.965926 0 trfposte.dat
+0 MLCAD BTG fffff
+1 0 60 64 110 0 -1 0 0 0 1 -1 0 0 enganche.dat
+0 MLCAD BTG fffff
+1 0 110 40 170 0 1 0 0 0 1 1 0 0 enganche.dat
+0 MLCAD BTG fffff
+1 0 115 74.2 89.686 0 0 1 -0.965926 0.258819 0 -0.258819 -0.965926 0 trfposte.dat
+0 MLCAD BTG fffff
+1 0 80 88 70 0 0 -1 0 1 0 1 0 0 enganche.dat
+0 MLCAD BTG fffff
+1 0 80 88 90 0 -1 0 -1 0 0 0 0 -1 pistola.dat
+0 MLCAD BTG fffff
+1 0 80 88 50 0 0 -1 0 1 0 1 0 0 enganche.dat
+0 MLCAD BTG fffff
+1 0 80 88 70 0 -1 0 -1 0 0 0 0 -1 pistola.dat
+0 MLCAD BTG fffff
+1 0 92 54 100 0 0 -1 0 -1 0 -1 0 0 mastilh.dat
+0 MLCAD BTG fffff
+1 0 92 54 40 0 0 -1 0 -1 0 -1 0 0 mastilh.dat
+0 MLCAD BTG fffff
+1 0 84.5 74 100 0 -1 0 -1 0 0 0 0 -1 engbarco.dat
+0 MLCAD BTG fffff
+1 0 109.5 74 -50 0 0 1 -1 0 0 0 -1 0 laser.dat
+0 MLCAD BTG fffff
+1 0 109.5 74 190 0 0 1 1 0 0 0 1 0 laser.dat
+0 MLCAD BTG fffff
+1 0 84.5 74 40 0 -1 0 -1 0 0 0 0 -1 engbarco.dat
+0 GROUP 18 fffff
+0 MLCAD BTG Groupsdsdsdsd name
+1 0 35 48 70 -1 0 0 0 1 0 0 0 -1 baldc2.dat
+0 MLCAD BTG Groupsdsdsdsd name
+1 0 35 48 110 -1 0 0 0 1 0 0 0 -1 baldc2.dat
+0 MLCAD BTG Groupsdsdsdsd name
+1 0 60 64 90 0 1 0 0 0 1 1 0 0 enganche.dat
+0 MLCAD BTG Groupsdsdsdsd name
+1 0 10 40 190 0 -1 0 0 0 1 -1 0 0 enganche.dat
+0 MLCAD BTG Groupsdsdsdsd name
+1 0 5 74.2 89.686 0 0 -1 0.965926 0.258819 0 0.258819 -0.965926 0 trfposte.dat
+0 MLCAD BTG Groupsdsdsdsd name
+1 0 60 64 30 0 1 0 0 0 1 1 0 0 enganche.dat
+0 MLCAD BTG Groupsdsdsdsd name
+1 0 10 40 -30 0 -1 0 0 0 1 -1 0 0 enganche.dat
+0 MLCAD BTG Groupsdsdsdsd name
+1 0 5 74.2 50.314 0 0 -1 -0.965926 0.258819 0 0.258819 0.965926 0 trfposte.dat
+0 MLCAD BTG Groupsdsdsdsd name
+1 0 40 88 70 0 0 1 0 1 0 -1 0 0 enganche.dat
+0 MLCAD BTG Groupsdsdsdsd name
+1 0 40 88 50 0 1 0 -1 0 0 0 0 1 pistola.dat
+0 MLCAD BTG Groupsdsdsdsd name
+1 0 40 88 90 0 0 1 0 1 0 -1 0 0 enganche.dat
+0 MLCAD BTG Groupsdsdsdsd name
+1 0 40 88 70 0 1 0 -1 0 0 0 0 1 pistola.dat
+0 MLCAD BTG Groupsdsdsdsd name
+1 0 28 54 40 0 0 1 0 -1 0 1 0 0 mastilh.dat
+0 MLCAD BTG Groupsdsdsdsd name
+1 0 28 54 100 0 0 1 0 -1 0 1 0 0 mastilh.dat
+0 MLCAD BTG Groupsdsdsdsd name
+1 0 35.5 74 40 0 1 0 -1 0 0 0 0 1 engbarco.dat
+0 MLCAD BTG Groupsdsdsdsd name
+1 0 10.5 74 190 0 0 -1 -1 0 0 0 1 0 laser.dat
+0 MLCAD BTG Groupsdsdsdsd name
+1 0 10.5 74 -50 0 0 -1 1 0 0 0 -1 0 laser.dat
+0 MLCAD BTG Groupsdsdsdsd name
+1 0 35.5 74 100 0 1 0 -1 0 0 0 0 1 engbarco.dat
+0 GROUP 18 Groupsdsdsdsd name
+1 0 40 48 -30 0 0 1 0 1 0 -1 0 0 placa2x2.dat
+1 0 40 48 210 0 0 1 0 1 0 -1 0 0 placa2x2.dat
+1 0 100 40 -110 -1 0 0 0 1 0 0 0 -1 placa4.dat
+1 0 100 40 270 -1 0 0 0 1 0 0 0 -1 placa4.dat
+1 0 80 40 -50 0 0 1 0 1 0 -1 0 0 placa2.dat
+1 0 40 40 -50 0 0 1 0 1 0 -1 0 0 placa2x3.dat
+0 MLCAD HIDE 1 15 120 -72 90 0 0 -1 0 1 0 1 0 0 placa6x8.dat
+0 MLCAD HIDE 1 15 120 -72 -110 0 0 -1 0 1 0 1 0 0 placa6x8.dat
+0 MLCAD HIDE 1 15 120 -80 -90 0 0 -1 0 1 0 1 0 0 placa6x8.dat
+0 MLCAD HIDE 1 15 120 -80 70 0 0 -1 0 1 0 1 0 0 placa6x8.dat
+0 MLCAD BTG Grodddup nanfdme
+0 MLCAD HIDE 1 9 0 -88 210 0 0 1 0 1 0 -1 0 0 bald2x2r.dat
+0 MLCAD BTG Grodddup nanfdme
+0 MLCAD HIDE 1 9 0 -88 250 0 0 1 0 1 0 -1 0 0 bald2x2r.dat
+0 MLCAD BTG Grodddup nanfdme
+0 MLCAD HIDE 1 9 0 -88 270 0 0 1 0 1 0 -1 0 0 bald2r.dat
+0 MLCAD HIDE 1 9 40 -88 270 0 0 1 0 1 0 -1 0 0 bald2.dat
+0 MLCAD BTG Grodddup nanfdme
+0 MLCAD HIDE 1 9 0 -88 170 0 0 1 0 1 0 -1 0 0 bald2x2r.dat
+0 MLCAD BTG Grodddup nanfdme
+0 MLCAD HIDE 1 9 0 -88 130 0 0 1 0 1 0 -1 0 0 bald2x2r.dat
+0 MLCAD BTG Grodddup nanfdme
+0 MLCAD HIDE 1 9 0 -88 90 0 0 1 0 1 0 -1 0 0 bald2x2r.dat
+0 MLCAD BTG Grodddup nanfdme
+0 MLCAD HIDE 1 9 0 -88 -30 0 0 1 0 1 0 -1 0 0 bald2x2r.dat
+0 MLCAD BTG Grodddup nanfdme
+0 MLCAD HIDE 1 9 0 -88 50 0 0 1 0 1 0 -1 0 0 bald2x2r.dat
+0 MLCAD BTG Grodddup nanfdme
+0 MLCAD HIDE 1 9 0 -88 10 0 0 1 0 1 0 -1 0 0 bald2x2r.dat
+0 MLCAD BTG Grodddup nanfdme
+0 MLCAD HIDE 1 9 120 -88 210 0 0 -1 0 1 0 1 0 0 bald2x2r.dat
+0 MLCAD BTG Grodddup nanfdme
+0 MLCAD HIDE 1 9 120 -88 250 0 0 -1 0 1 0 1 0 0 bald2r.dat
+0 MLCAD HIDE 1 9 80 -88 -70 0 0 -1 0 1 0 1 0 0 bald2.dat
+0 MLCAD HIDE 1 9 80 -88 190 0 0 -1 0 1 0 1 0 0 bald2.dat
+0 MLCAD BTG Grodddup nanfdme
+0 MLCAD HIDE 1 9 120 -88 170 0 0 -1 0 1 0 1 0 0 bald2x2r.dat
+0 MLCAD BTG Grodddup nanfdme
+0 MLCAD HIDE 1 9 120 -88 130 0 0 -1 0 1 0 1 0 0 bald2x2r.dat
+0 MLCAD BTG Grodddup nanfdme
+0 MLCAD HIDE 1 9 120 -88 90 0 0 -1 0 1 0 1 0 0 bald2x2r.dat
+0 MLCAD BTG Grodddup nanfdme
+0 MLCAD HIDE 1 9 120 -88 50 0 0 -1 0 1 0 1 0 0 bald2x2r.dat
+0 MLCAD BTG Grodddup nanfdme
+0 MLCAD HIDE 1 9 120 -88 10 0 0 -1 0 1 0 1 0 0 bald2x2r.dat
+0 MLCAD BTG Grodddup nanfdme
+0 MLCAD HIDE 1 9 120 -88 -30 0 0 -1 0 1 0 1 0 0 bald2x2r.dat
+0 MLCAD BTG Grodddup nanfdme
+0 MLCAD HIDE 1 9 120 -88 -70 0 0 -1 0 1 0 1 0 0 bald2x2r.dat
+0 MLCAD BTG Grodddup nanfdme
+0 MLCAD HIDE 1 9 0 -88 -70 0 0 1 0 1 0 -1 0 0 bald2x2r.dat
+0 MLCAD BTG Grodddup nanfdme
+0 MLCAD HIDE 1 9 120 -88 -110 0 0 -1 0 1 0 1 0 0 bald2x2r.dat
+0 GROUP 20 Grodddup nanfdme
+0 MLCAD HIDE 1 9 80 -88 -30 0 0 -1 0 1 0 1 0 0 vntscorm.dat
+0 MLCAD HIDE 1 9 40 -88 -50 1 0 0 0 1 0 0 0 1 vntscorm.dat
+0 MLCAD HIDE 1 9 80 -88 190 -1 0 0 0 1 0 0 0 -1 vntscorm.dat
+0 MLCAD HIDE 1 9 40 -112 30 0 0 -1 0 1 0 1 0 0 tejador8.dat
+0 MLCAD HIDE 1 9 40 -112 -50 0 0 -1 0 1 0 1 0 0 tejadorm.dat
+0 MLCAD HIDE 1 9 40 -88 10 0 0 1 0 1 0 -1 0 0 vntscorm.dat
+0 MLCAD BTG Gasroup name
+1 0 20 64 -50 0 0 1 0 1 0 -1 0 0 vntscorm.dat
+0 MLCAD BTG Gasroup name
+1 0 20 72 -50 0 0 1 0 1 0 -1 0 0 placa2.dat
+0 MLCAD BTG Gasroup name
+1 0 0 80 -50 0 0 1 0 1 0 -1 0 0 placa2x2.dat
+0 MLCAD BTG Grosup name
+1 0 20 64 230 0 0 1 0 1 0 -1 0 0 vntscorm.dat
+0 MLCAD BTG Grosup name
+1 0 20 72 230 0 0 1 0 1 0 -1 0 0 placa2.dat
+0 MLCAD BTG Gasroup name
+1 0 20 72 -50 -1 0 0 0 1 0 0 0 -1 bald2.dat
+0 MLCAD BTG Gasroup name
+1 0 100 64 -90 0 0 -1 0 1 0 1 0 0 vntscorm.dat
+0 MLCAD BTG Gasroup name
+1 0 120 80 -90 0 0 -1 0 1 0 1 0 0 placa2x2.dat
+0 MLCAD BTG Gasroup name
+1 0 100 72 -90 0 0 -1 0 1 0 1 0 0 placa2.dat
+0 MLCAD BTG Gasroup name
+1 0 100 72 -90 1 0 0 0 1 0 0 0 1 bald2.dat
+0 GROUP 8 Gasroup name
+0 MLCAD BTG Grosup name
+1 0 100 64 190 0 0 -1 0 1 0 1 0 0 vntscorm.dat
+0 MLCAD BTG Grosup name
+1 0 120 80 190 0 0 -1 0 1 0 1 0 0 placa2x2.dat
+0 MLCAD BTG Grosup name
+1 0 100 72 190 0 0 -1 0 1 0 1 0 0 placa2.dat
+0 MLCAD BTG Grosup name
+1 0 100 72 190 1 0 0 0 1 0 0 0 1 bald2.dat
+0 MLCAD BTG Grosup name
+1 0 20 72 230 -1 0 0 0 1 0 0 0 -1 bald2.dat
+0 MLCAD BTG Grosup name
+1 0 0 80 230 0 0 1 0 1 0 -1 0 0 placa2x2.dat
+0 GROUP 8 Grosup name
+0 MLCAD HIDE 1 9 80 -88 10 0 0 -1 0 1 0 1 0 0 vntscorm.dat
+0 MLCAD HIDE 1 9 40 -88 50 0 0 1 0 1 0 -1 0 0 vntscorm.dat
+0 MLCAD HIDE 1 9 80 -88 50 0 0 -1 0 1 0 1 0 0 vntscorm.dat
+0 MLCAD HIDE 1 9 40 -88 90 0 0 1 0 1 0 -1 0 0 vntscorm.dat
+0 MLCAD HIDE 1 9 80 -88 90 0 0 -1 0 1 0 1 0 0 vntscorm.dat
+0 MLCAD HIDE 1 9 40 -88 130 0 0 1 0 1 0 -1 0 0 vntscorm.dat
+0 MLCAD HIDE 1 9 80 -88 130 0 0 -1 0 1 0 1 0 0 vntscorm.dat
+0 MLCAD HIDE 1 9 40 -88 170 0 0 1 0 1 0 -1 0 0 vntscorm.dat
+0 MLCAD HIDE 1 15 60 -80 270 -1 0 0 0 1 0 0 0 -1 placa2x3.dat
+0 MLCAD BTG v
+0 MLCAD HIDE 1 15 60 -72 90 -1 0 0 0 1 0 0 0 -1 placa2x3.dat
+0 MLCAD BTG v
+0 MLCAD HIDE 1 15 120 -72 90 -1 0 0 0 1 0 0 0 -1 placa2x3.dat
+0 GROUP 2 v
+0 MLCAD HIDE 1 15 120 -80 270 -1 0 0 0 1 0 0 0 -1 placa2x3.dat
+1 0 120 40 30 -1 0 0 0 1 0 0 0 -1 placa4x6.dat
+1 0 80 64 30 0 0 -1 0 1 0 1 0 0 jacen2x4.dat
+1 0 0 40 -110 1 0 0 0 1 0 0 0 1 placa2.dat
+1 0 80 40 -110 1 0 0 0 1 0 0 0 1 placa2.dat
+1 0 20 40 -50 0 0 1 0 1 0 -1 0 0 placa2.dat
+1 0 120 40 250 -1 0 0 0 1 0 0 0 -1 placa2.dat
+1 0 40 40 250 -1 0 0 0 1 0 0 0 -1 placa2.dat
+1 0 40 40 190 0 0 -1 0 1 0 1 0 0 placa2.dat
+1 0 100 40 190 0 0 -1 0 1 0 1 0 0 placa2.dat
+1 0 80 40 190 0 0 -1 0 1 0 1 0 0 placa2x3.dat
+1 19 60 32 210 0 0 1 0 1 0 -1 0 0 baldc2x2.dat
+1 19 20 32 210 0 0 1 0 1 0 -1 0 0 baldc2x2.dat
+1 19 20 32 170 0 0 1 0 1 0 -1 0 0 baldc2x2.dat
+1 19 20 32 130 0 0 1 0 1 0 -1 0 0 baldc2x2.dat
+1 19 20 32 90 0 0 1 0 1 0 -1 0 0 baldc2x2.dat
+1 19 20 32 50 0 0 1 0 1 0 -1 0 0 baldc2x2.dat
+1 19 20 32 10 0 0 1 0 1 0 -1 0 0 baldc2x2.dat
+1 19 60 32 -50 0 0 1 0 1 0 -1 0 0 baldc2x2.dat
+1 19 20 32 -50 0 0 1 0 1 0 -1 0 0 baldc2x2.dat
+1 19 60 32 150 0 0 1 0 1 0 -1 0 0 baldc2.dat
+1 19 60 32 110 0 0 1 0 1 0 -1 0 0 baldc2.dat
+1 19 60 32 70 0 0 1 0 1 0 -1 0 0 baldc2.dat
+1 19 60 32 30 0 0 1 0 1 0 -1 0 0 baldc2.dat
+1 19 60 32 -10 0 0 1 0 1 0 -1 0 0 baldc2.dat
+1 19 60 32 -30 0 0 1 0 1 0 -1 0 0 baldc1.dat
+1 19 60 32 230 0 0 1 0 1 0 -1 0 0 baldc2.dat
+1 19 20 32 230 0 0 1 0 1 0 -1 0 0 baldc2.dat
+0 MLCAD BTG df
+0 MLCAD HIDE 1 15 20 -16 -50 0 0 -1 0 1 0 1 0 0 placa4.dat
+0 MLCAD BTG df
+0 MLCAD HIDE 1 15 20 -16 30 0 0 -1 0 1 0 1 0 0 placa4.dat
+0 MLCAD BTG df
+0 MLCAD HIDE 1 15 20 -16 110 0 0 -1 0 1 0 1 0 0 placa4.dat
+0 GROUP 3 df
+0 MLCAD BTG Gssroup name
+0 MLCAD HIDE 1 15 120 -16 110 0 0 -1 0 1 0 1 0 0 placa4.dat
+0 MLCAD BTG Gssroup name
+0 MLCAD HIDE 1 15 120 -16 30 0 0 -1 0 1 0 1 0 0 placa4.dat
+0 MLCAD BTG Gssroup name
+0 MLCAD HIDE 1 15 120 -16 -50 0 0 -1 0 1 0 1 0 0 placa4.dat
+0 GROUP 3 Gssroup name
+0 MLCAD HIDE 1 15 100 -64 -30 -1 0 0 0 1 0 0 0 -1 placa4.dat
+0 MLCAD HIDE 1 15 80 -80 -130 1 0 0 0 1 0 0 0 1 bald2x2r.dat
+0 MLCAD HIDE 1 15 0 -80 -130 1 0 0 0 1 0 0 0 1 bald2x2r.dat
+0 MLCAD HIDE 1 15 40 -80 -130 1 0 0 0 1 0 0 0 1 placa2x2.dat
+0 MLCAD HIDE 1 9 40 -112 -10 1 0 0 0 1 0 0 0 1 respirad.dat
+0 MLCAD HIDE 1 0 60 -134 29 1 0 0 0 0 -1 0 1 0 mastilh.dat
+0 MLCAD BTG Grossup name
+0 MLCAD HIDE 1 0 60 -134 29 1 0 0 0 -0.5 -0.866025 0 0.866025 -0.5 mastilm.dat
+0 MLCAD BTG Grossup name
+0 MLCAD HIDE 1 0 60 -154 63.641 1 0 0 0 0.5 0.866025 0 -0.866025 0.5 antena.dat
+0 MLCAD BTG Grossup name
+0 MLCAD HIDE 1 0 60 -139.5 38.526 -1 0 0 0 0.5 -0.866025 0 -0.866025 -0.5 cilindro.dat
+0 GROUP 3 Grossup name
+0 MLCAD HIDE 1 15 60 -113 230 -1 0 0 0 1 0 0 0 -1 radar.dat
+0 MLCAD HIDE 1 9 80 -88 250 -1 0 0 0 1 0 0 0 -1 respirad.dat
+0 MLCAD HIDE 1 9 60 -103 230 -1 0 0 0 1 0 0 0 -1 tubo.dat
+0 MLCAD HIDE 1 15 60 -113 -90 0 0 1 0 1 0 -1 0 0 soprtmar.dat
+0 MLCAD HIDE 1 7 60 -136.75 -91 0 0 1 0 1 0 -1 0 0 helireje.dat
+0 MLCAD HIDE 1 9 40 -88 -110 1 0 0 0 1 0 0 0 1 respirad.dat
+0 MLCAD HIDE 1 9 60 -103 -90 1 0 0 0 1 0 0 0 1 tubo.dat
+0 MLCAD BTG Grosdsdup name
+0 MLCAD HIDE 1 9 60 -103 230 1 0 0 0 1 0 0 0 1 tubo.dat
+0 MLCAD BTG Ga
+1 0 60 40 -70 -1 0 0 0 0 1 0 1 0 enganch2.dat
+0 MLCAD BTG Ga
+1 0 80 40 -70 -1 0 0 0 0 1 0 1 0 enganch2.dat
+0 MLCAD BTG Ga
+1 0 0 40 -94 1 0 0 0 0 -1 0 1 0 titmarco.dat
+0 GROUP 3 Ga
+0 MLCAD BTG Group nasdsme
+1 0 60 40 210 1 0 0 0 0 1 0 -1 0 enganch2.dat
+0 MLCAD BTG Group nasdsme
+1 0 40 40 210 1 0 0 0 0 1 0 -1 0 enganch2.dat
+0 MLCAD BTG Group nasdsme
+1 0 120 40 234 -1 0 0 0 0 -1 0 -1 0 titmarco.dat
+0 GROUP 3 Group nasdsme
+0 MLCAD BTG Grsdoup name
+0 MLCAD HIDE 1 15 60 -80 -130 1 0 0 0 1 0 0 0 1 enganch2.dat
+0 MLCAD BTG Grsdoup name
+0 MLCAD HIDE 1 15 40 -80 -130 1 0 0 0 1 0 0 0 1 enganch2.dat
+0 MLCAD HIDE 1 15 40 -104 -110 0 0 1 0 1 0 -1 0 0 bald2.dat
+0 MLCAD BTG Grsdoup name
+0 MLCAD HIDE 1 15 60 -80 -130 0 0 -1 -1 0 0 0 1 0 bald2x2.dat
+0 MLCAD BTG Grsdoup name
+0 MLCAD HIDE 1 15 100 -80 -130 0 0 -1 -1 0 0 0 1 0 bald2x2.dat
+0 GROUP 4 Grsdoup name
+0 MLCAD HIDE 1 15 60 -136.75 -118 0 0 -1 1 0 0 0 -1 0 cilintap.dat
+0 MLCAD BTG Grosdsdup name
+0 MLCAD HIDE 1 15 60 -113 230 0 0 -1 0 1 0 1 0 0 soprtmar.dat
+0 MLCAD BTG Grosdsdup name
+0 MLCAD HIDE 1 7 60 -136.75 231 0 0 -1 0 1 0 1 0 0 helireje.dat
+0 MLCAD BTG Grosdsdup name
+0 MLCAD HIDE 1 9 80 -88 250 -1 0 0 0 1 0 0 0 -1 respirad.dat
+0 MLCAD BTG Grosdsdup name
+0 MLCAD HIDE 1 15 60 -136.75 258 0 0 1 1 0 0 0 1 0 cilintap.dat
+0 GROUP 5 Grosdsdup name
+0

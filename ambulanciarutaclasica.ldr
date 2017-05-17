@@ -1,0 +1,56 @@
+0 Ambulancia (ruta clasica)
+0 Name: ambulanciarutaclasica.ldr
+0 Author: cpcbegin
+0 Tente ruta
+0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CONFIG 0 0
+1 0 30 16 30 0 0 1 0 1 0 -1 0 0 placa2x3.dat
+1 0 30 16 150 0 0 1 0 1 0 -1 0 0 placa2x3.dat
+1 15 90 8 -50 0 0 -1 0 1 0 1 0 0 placa4x8.dat
+1 15 10 -24 30 1 0 0 0 1 0 0 0 1 jacena4.dat
+1 15 10 0 30 1 0 0 0 1 0 0 0 1 jacena4.dat
+1 15 90 -24 30 0 0 -1 0 1 0 1 0 0 bald2r.dat
+1 15 10 -24 50 0 0 1 0 1 0 -1 0 0 bald2r.dat
+1 15 50 0 30 1 0 0 0 1 0 0 0 1 cabant.dat
+1 15 50 8 -30 1 0 0 0 1 0 0 0 1 paracf21.dat
+1 15 50 8 150 -1 0 0 0 1 0 0 0 -1 paracq21.dat
+1 15 10 -48 90 0 0 1 0 1 0 -1 0 0 bald2x2r.dat
+1 15 90 -48 50 0 0 -1 0 1 0 1 0 0 bald2x2r.dat
+1 15 10 -48 130 0 0 1 0 1 0 -1 0 0 bald2x2r.dat
+1 15 90 -48 90 0 0 -1 0 1 0 1 0 0 bald2x2r.dat
+1 15 10 -48 170 0 0 1 0 1 0 -1 0 0 bald2x2r.dat
+1 15 90 -48 130 0 0 -1 0 1 0 1 0 0 bald2x2r.dat
+1 15 50 0 -50 1 0 0 0 1 0 0 0 1 bald2x2r.dat
+1 15 10 0 -50 1 0 0 0 1 0 0 0 1 bald2x2r.dat
+1 117313504 80 -48 40 0 0 1 0 1 0 -1 0 0 amortigu.dat
+1 117313504 20 -48 40 0 0 1 0 1 0 -1 0 0 amortigu.dat
+1 15 10 32 90 0 0 1 0 1 0 -1 0 0 jacen2x3.dat
+1 15 50 32 90 0 0 1 0 1 0 -1 0 0 jacen2x3.dat
+1 15 50 8 170 0 0 1 0 1 0 -1 0 0 placa2x3.dat
+1 15 10 8 170 0 0 1 0 1 0 -1 0 0 placa2x3.dat
+1 15 30 0 170 0 0 1 0 1 0 -1 0 0 jacena6.dat
+1 15 90 0 170 0 0 1 0 1 0 -1 0 0 jacena6.dat
+1 15 30 -24 170 0 0 1 0 1 0 -1 0 0 rallado2.dat
+1 15 70 -24 130 0 0 -1 0 1 0 1 0 0 rallado2.dat
+1 15 90 -24 50 0 0 -1 0 1 0 1 0 0 vntscorp.dat
+1 15 90 -24 90 0 0 -1 0 1 0 1 0 0 vntscorp.dat
+1 15 10 -24 130 0 0 1 0 1 0 -1 0 0 vntscorp.dat
+1 15 10 -24 90 0 0 1 0 1 0 -1 0 0 vntscorp.dat
+1 15 50 0 170 0 0 1 0 1 0 -1 0 0 ventana1.dat
+1 15 30 0 170 0 0 1 0 1 0 -1 0 0 ventana1.dat
+1 15 90 -48 10 0 0 -1 0 1 0 1 0 0 bald2r.dat
+1 15 70 -48 30 0 0 -1 0 1 0 1 0 0 bald2.dat
+1 15 10 -48 30 0 0 1 0 1 0 -1 0 0 bald2r.dat
+1 0 30 40 10 0 0 1 0 1 0 -1 0 0 jacen2x2.dat
+1 0 30 40 150 0 0 1 0 1 0 -1 0 0 jacen2x2.dat
+1 4 70 40 -30 -1 0 0 0 1 0 0 0 -1 llantrut.dat
+1 0 70 40 -30 -1 0 0 0 1 0 0 0 -1 ruta21nm.dat
+1 4 70 40 110 -1 0 0 0 1 0 0 0 -1 llantrut.dat
+1 0 70 40 110 -1 0 0 0 1 0 0 0 -1 ruta21nm.dat
+1 4 30 40 150 1 0 0 0 1 0 0 0 1 llantrut.dat
+1 0 30 40 150 1 0 0 0 1 0 0 0 1 ruta21nm.dat
+1 4 30 40 10 1 0 0 0 1 0 0 0 1 llantrut.dat
+1 0 30 40 10 1 0 0 0 1 0 0 0 1 ruta21nm.dat
+1 0 10 0 50 0 0 -1 0 1 0 1 0 0 cruzroj6.dat
+1 0 90 0 170 0 0 1 0 1 0 -1 0 0 cruzroj6.dat
+0

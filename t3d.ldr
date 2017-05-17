@@ -1,0 +1,23 @@
+0 Sin_nombre
+0 Name: t3d.ldr
+0 Author: CPCBEGIN
+0 Unofficial Model
+0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CONFIG 0 0
+1 4 -40 40 0 1 0 0 0 1 0 0 0 1 jacena2.dat
+1 4 -40 16 0 1 0 0 0 1 0 0 0 1 jacena2.dat
+1 15 120 16 -80 -1 0 0 0 1 0 0 0 -1 jacena2.dat
+1 15 120 -32 -80 -1 0 0 0 1 0 0 0 -1 jacena2.dat
+1 4 -40 -8 0 1 0 0 0 1 0 0 0 1 jacena2.dat
+1 4 -40 -32 0 1 0 0 0 1 0 0 0 1 jacena2.dat
+1 4 -80 -56 20 1 0 0 0 1 0 0 0 1 jacena6.dat
+1 2 40 -56 -80 0 0 -1 0 1 0 1 0 0 jacena4.dat
+1 15 20 -56 -100 1 0 0 0 1 0 0 0 1 jacena4.dat
+1 15 20 40 -100 1 0 0 0 1 0 0 0 1 jacena4.dat
+1 2 40 40 -80 0 0 -1 0 1 0 1 0 0 jacena4.dat
+1 15 30 -8 -90 0 0 1 0 1 0 -1 0 0 jacena1.dat
+1 15 110 -8 -90 0 0 1 0 1 0 -1 0 0 jacena1.dat
+1 2 40 -32 -100 0 0 -1 0 1 0 1 0 0 jacena2.dat
+1 2 40 -8 -80 0 0 -1 0 1 0 1 0 0 jacena2.dat
+1 2 40 16 -100 0 0 -1 0 1 0 1 0 0 jacena2.dat
+0
